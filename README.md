@@ -1,2 +1,2 @@
-Work from university classes and additional activties.
+Various project from university classes and additional activties.
 
